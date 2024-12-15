@@ -6,7 +6,7 @@
 - Banjar
 - Kisaran
 
-![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
+![Naruto](https://encrypted-tbn0.gstatic.comimagesq=tbn:ANd9GcQkTp0vrWZUWYlsWMtfL-Wes-r78Io-pO2tvw&s)
 
 |No | Nama |  Kota   |
 |---|------|---------|
